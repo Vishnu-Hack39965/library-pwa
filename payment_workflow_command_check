@@ -5,7 +5,7 @@
   window.nightVal = 400;
   window.bothVal = 1000;
   window.daysinamonth = 30;
-</script>
+</script>      
 
 //active-tools
   <div id="active-tools" class="hidden">  
